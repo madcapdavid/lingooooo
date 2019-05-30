@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="af" xml:lang="af" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+<LingoProject TargetLanguage="af" xml:lang="af" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlDatabase="C:\Users\dschneider\Documents\My Lingo Projects\MarkOfTheWeb.liprjf\.git" SourceControlProviderType="Git" ProjectGuid="03d044ce-9694-4bf1-aa48-bcd27aac1e67" SourceControlDatabaseRoot="C:\Users\dschneider\Documents\My Lingo Projects\MarkOfTheWeb.liprjf">
     <ProjectFile Source="Target/MarkOfTheWeb.flprj" Target="Target/MarkOfTheWeb.flprj" />
 </LingoProject>
